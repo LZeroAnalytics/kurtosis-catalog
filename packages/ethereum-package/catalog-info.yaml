@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ethereum-package
+  description: Kurtosis package that spins up Ethereum nodes & networks
+  annotations:
+    github.com/project-slug: ethpandaops/ethereum-package
+    backstage.io/view-url:    https://github.com/ethpandaops/ethereum-package
+spec:
+  type: library
+  lifecycle: production
+  owner: ethpandaops
+  dependsOn:
+    - redis-package
+    - postgres-package

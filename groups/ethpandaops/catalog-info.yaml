@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: ethpandaops
+  description: The ethpandaops team is responsible for everything DevOps at EF
+  annotations:
+    github.com/team-slug: ethpandaops
+spec:
+  type: team
+  children: []
+  members:
+    - barnabasbusa
+    - parithosh
+    - skylenet

@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: bloctopus
+  description: Bloctopus team is developing web3 dev tooling
+  annotations:
+    github.com/team-slug: LZeroAnalytics
+spec:
+  type: team
+  children: []
+  members:
+    - tiljrd
+    - brianle1301

@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: uniswap-package
+  description: Kurtosis package for Uniswap v3
+  annotations:
+    github.com/project-slug: LZeroAnalytics/uniswap-package
+    backstage.io/view-url:    https://github.com/LZeroAnalytics/uniswap-package
+spec:
+  type: library
+  lifecycle: production
+  owner: bloctopus

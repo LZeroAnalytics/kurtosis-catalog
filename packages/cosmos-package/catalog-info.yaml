@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: cosmos-package
+  description: Kurtosis package for Cosmos SDK chains
+  annotations:
+    github.com/project-slug: LZeroAnalytics/cosmos-package
+    backstage.io/view-url:    https://github.com/LZeroAnalytics/cosmos-package
+spec:
+  type: library
+  lifecycle: production
+  owner: bloctopus

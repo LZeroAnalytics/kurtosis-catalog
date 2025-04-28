@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: chainlink-package
+  description: Kurtosis package for Chainlink oracles
+  annotations:
+    github.com/project-slug: LZeroAnalytics/chainlink-package
+    backstage.io/view-url:    https://github.com/LZeroAnalytics/chainlink-package
+spec:
+  type: library
+  lifecycle: production
+  owner: bloctopus

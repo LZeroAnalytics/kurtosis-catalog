@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: postgres-package
+  description: Official Kurtosis Postgres package
+  annotations:
+    github.com/project-slug: kurtosis-tech/postgres-package
+    backstage.io/view-url:    https://github.com/kurtosis-tech/postgres-package
+spec:
+  type: library
+  lifecycle: production
+  owner: kurtosis-tech

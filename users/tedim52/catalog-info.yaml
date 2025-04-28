@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: tedim52
+  annotations:
+    github.com/user-login: tedim52
+spec:
+  memberOf:
+    - kurtosis-tech

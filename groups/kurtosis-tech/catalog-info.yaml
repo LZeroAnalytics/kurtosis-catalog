@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: kurtosis-tech
+  description: Core Kurtosis engineering team
+  annotations:
+    github.com/team-slug: kurtosis-tech
+spec:
+  type: team
+  children: []
+  members:
+    - tedim52

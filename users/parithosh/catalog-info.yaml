@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: parithosh
+  annotations:
+    github.com/user-login: parithosh
+spec:
+  memberOf:
+    - ethpandaops

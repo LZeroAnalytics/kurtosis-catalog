@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: redis-package
+  description: Official Kurtosis Redis package
+  annotations:
+    github.com/project-slug: kurtosis-tech/redis-package
+    backstage.io/view-url:    https://github.com/kurtosis-tech/redis-package
+spec:
+  type: library
+  lifecycle: production
+  owner: kurtosis-tech

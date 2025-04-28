@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: optimism-package
+  description: Kurtosis package for Optimism L2 networks
+  annotations:
+    github.com/project-slug: ethpandaops/optimism-package
+    backstage.io/view-url:    https://github.com/ethpandaops/optimism-package
+spec:
+  type: library
+  lifecycle: production
+  owner: ethpandaops
+  dependsOn:
+    - ethereum-package
+    - postgres-package
