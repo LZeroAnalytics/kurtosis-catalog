@@ -6,7 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: LZeroAnalytics/layerzero-package
     backstage.io/view-url:    https://github.com/LZeroAnalytics/layerzero-package
-    backstage.io/techdocs-ref: url:https://github.com/LZeroAnalytics/layerzero-package/blob/master/README.md
+    backstage.io/techdocs-ref: url:https://raw.githubusercontent.com/LZeroAnalytics/layerzero-package/refs/heads/master/README.md
 spec:
   type: Cross-chain
   lifecycle: production
