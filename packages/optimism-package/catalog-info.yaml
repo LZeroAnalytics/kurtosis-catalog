@@ -6,6 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: ethpandaops/optimism-package
     backstage.io/view-url:    https://github.com/ethpandaops/optimism-package
+    backstage.io/techdocs-ref: url:https://github.com/ethpandaops/optimism-package/blob/master/README.md
 spec:
   type: Layer 1
   lifecycle: production

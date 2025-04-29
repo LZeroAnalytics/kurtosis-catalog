@@ -6,6 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: kurtosis-tech/postgres-package
     backstage.io/view-url:    https://github.com/kurtosis-tech/postgres-package
+    backstage.io/techdocs-ref: url:https://github.com/kurtosis-tech/postgres-package/blob/master/README.md
 spec:
   type: DB
   lifecycle: production

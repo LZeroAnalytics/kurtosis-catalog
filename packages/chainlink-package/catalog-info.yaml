@@ -6,6 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: LZeroAnalytics/chainlink-package
     backstage.io/view-url:    https://github.com/LZeroAnalytics/chainlink-package
+    backstage.io/techdocs-ref: url:https://github.com/LZeroAnalytics/chainlink-package/blob/master/README.md
 spec:
   type: Oracle
   lifecycle: production
