@@ -7,6 +7,6 @@ metadata:
     github.com/project-slug: kurtosis-tech/postgres-package
     backstage.io/view-url:    https://github.com/kurtosis-tech/postgres-package
 spec:
-  type: library
+  type: DB
   lifecycle: production
   owner: kurtosis-tech

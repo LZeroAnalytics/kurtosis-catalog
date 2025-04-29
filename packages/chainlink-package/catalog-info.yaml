@@ -7,6 +7,6 @@ metadata:
     github.com/project-slug: LZeroAnalytics/chainlink-package
     backstage.io/view-url:    https://github.com/LZeroAnalytics/chainlink-package
 spec:
-  type: library
+  type: Oracle
   lifecycle: production
   owner: bloctopus

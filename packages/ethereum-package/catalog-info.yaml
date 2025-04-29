@@ -7,9 +7,9 @@ metadata:
     github.com/project-slug: ethpandaops/ethereum-package
     backstage.io/view-url:    https://github.com/ethpandaops/ethereum-package
 spec:
-  type: library
+  type: Layer 1
   lifecycle: production
   owner: ethpandaops
   dependsOn:
-    - redis-package
-    - postgres-package
+    - component:default/redis-package
+    - component:default/postgres-package

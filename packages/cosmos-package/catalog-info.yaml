@@ -7,6 +7,6 @@ metadata:
     github.com/project-slug: LZeroAnalytics/cosmos-package
     backstage.io/view-url:    https://github.com/LZeroAnalytics/cosmos-package
 spec:
-  type: library
+  type: Layer 1
   lifecycle: production
   owner: bloctopus

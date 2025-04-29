@@ -7,6 +7,6 @@ metadata:
     github.com/project-slug: LZeroAnalytics/uniswap-package
     backstage.io/view-url:    https://github.com/LZeroAnalytics/uniswap-package
 spec:
-  type: library
+  type: DeFi
   lifecycle: production
   owner: bloctopus

@@ -7,7 +7,7 @@ metadata:
     github.com/project-slug: ethpandaops/optimism-package
     backstage.io/view-url:    https://github.com/ethpandaops/optimism-package
 spec:
-  type: library
+  type: Layer 1
   lifecycle: production
   owner: ethpandaops
   dependsOn:
