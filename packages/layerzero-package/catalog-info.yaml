@@ -11,4 +11,4 @@ spec:
   lifecycle: production
   owner: bloctopus
   dependsOn:
-    - redis-package
+    - component:default/redis-package

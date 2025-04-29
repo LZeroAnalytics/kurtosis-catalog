@@ -11,5 +11,5 @@ spec:
   lifecycle: production
   owner: ethpandaops
   dependsOn:
-    - ethereum-package
-    - postgres-package
+    - component:default/ethereum-package
+    - component:default/postgres-package
